@@ -6,9 +6,14 @@ Flat icons for your web development environment. They play beautifully with the 
 Thanks to [`UIFest`][UIFest] for their [`File Types Icons Set`][UIFestIcons] in which this work is based.
 
 
+## Screenshots
+
+![Screenshots](/screenshots.png?raw=true)
+
+
 ## License
 
-UIFest's freebie license states that:
+According to the UIFest's freebie license:
 
 >All our resources are royalty free for use in both personal and commercial projects. You can modify any resources to your liking to fit into your project.
 
@@ -19,12 +24,8 @@ credit our resources or/and help spread the word about us.
 third party. This includes uploading our resources to another website, marketplace or mediasharing
 tool, and offering our resources as a separate attachment from any of your work.
 
-This work has been published with explicit UIFest's approval. For the full license, see [`LICENSE.pdf`][LICENSE].
+This work has been published with UIFest's explicit autorization. For the full license, see [`LICENSE.pdf`][LICENSE].
 
-
-## Screenshots
-
-![Screenshots](/screenshots.png?raw=true)
 
 [UIFest]:http://uifest.com/
 [UIFestIcons]:http://uifest.com/product/file-types-icons-set
