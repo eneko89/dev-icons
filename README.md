@@ -1,7 +1,7 @@
 dev-icons
 ===
 
-Flat icons for your web development environment. They play beautifully with the Windows 10 UI. They are provided in .ico and .png formats, so you can also use them in almost every GNU/Linux environment.
+Flat icons for your web development environment. They play beautifully with the Windows 10 UI. They are provided both in .ico and .png formats, so you can also use them in almost every GNU/Linux desktop environment.
 
 Thanks to [`UIFest`][UIFest] for their [`File Types Icons Set`][UIFestIcons] in which this work is based.
 
@@ -24,7 +24,7 @@ credit our resources or/and help spread the word about us.
 third party. This includes uploading our resources to another website, marketplace or mediasharing
 tool, and offering our resources as a separate attachment from any of your work.
 
-This work has been published with UIFest's explicit autorization. For the full license, see [`LICENSE.pdf`][LICENSE].
+This work has been published with UIFest's explicit authorization. For the full license, see [`LICENSE.pdf`][LICENSE].
 
 
 [UIFest]:http://uifest.com/
